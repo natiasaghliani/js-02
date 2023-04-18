@@ -50,15 +50,15 @@ console.log(eg2);
 
 //დავალება 4  (მოიძიეთ ინფორმავია do while ციკლზე და დაწერეთ თქვენი მაგალითი)
 
-let age = '';
+let num = '';
 let i = 1;
 
 do {
     i = i + 2;
-    age = age + i;
+    num = num + i;
 } while (i < 8);
 
-console.log(age);
+console.log(num);
 
 
 
